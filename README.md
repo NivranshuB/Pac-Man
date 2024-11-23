@@ -1,2 +1,2 @@
 # Pac-Man
-A basic Pac-Man game written in C++
+A basic Pac-Man game written in C#
